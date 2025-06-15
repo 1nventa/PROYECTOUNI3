@@ -1,5 +1,0 @@
-com\danielarroyo\sistema_gestion_congresistas\Principal.class
-com\danielarroyo\sistema_gestion_congresistas\modelo\Congresista.class
-com\danielarroyo\sistema_gestion_congresistas\util\Conexion.class
-com\danielarroyo\sistema_gestion_congresistas\dao\CongresistaDAO.class
-com\danielarroyo\sistema_gestion_congresistas\Ui\Menu.class
