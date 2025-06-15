@@ -8,9 +8,9 @@ public class Principal {
     public static void main(String[] args) {
         Connection conn = Conexion.getConexion();
         if (conn != null) {
-            System.out.println("✅ Conectado correctamente a gestion_congreso.");
+            System.out.println("Conectado correctamente a gestion_congreso.");
         } else {
-            System.out.println("❌ No se pudo conectar.");
+            System.out.println("No se pudo conectar.");
         }
     }
 }
